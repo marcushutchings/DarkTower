@@ -2231,7 +2231,7 @@ void loop() {
 			break;
 		case GAME_STATE_ID_TITLE:
 			gb.display.setFont(font3x5);
-		    gb.titleScreen(F("The Cursed Tower"));
+		    gb.titleScreen(F("The Dark Tower"));
 		    game_state.state = GAME_STATE_ID_INIT;
 			gb.display.setFont(font5x7);
 			break;
