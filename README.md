@@ -14,6 +14,12 @@ B - cancel a selection
 
 C - return to the Gamebuino screen
 
+# Installation
+Copy the DARKTOWR.HEX and DARKTOWR.INF onto your Gamebuino MicroSD card and it should be available via the Game Loader. See http://legacy.gamebuino.com/wiki/index.php?title=Games for more information
+
+# Building
+This project was built using Eclipse C++ IDE for Arduino (http://marketplace.eclipse.org/content/eclipse-c-ide-arduino?mpc=true&mpc_state=) Then using the Arduino Download Manager to download the Gamebuino Classic library (version 0.5.2)
+
 # Legal
 Copyright (C) 2018 Marcus Hutchings
 
